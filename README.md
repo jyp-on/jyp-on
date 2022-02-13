@@ -4,7 +4,7 @@
 <br>
 
 <h1 align="center">✌˚◡˚✌ My GitHub</h2>
-<br>
+
 <h2 align="center">📚 Tech Stack 📚</h3>
 <br>
 </p>
