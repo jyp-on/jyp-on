@@ -30,8 +30,6 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 </p>
 <br>
-<br>
-
 <h2 align="center">🌈 Follow Me 🌈</h3>
 <br>
 <p align="center">
@@ -40,7 +38,6 @@
   &nbsp
   <a href="mailto:okmlnsunok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
-<br>
 <br>
 <h2 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <br>
