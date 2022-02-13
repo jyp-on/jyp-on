@@ -1,10 +1,11 @@
+![header](https://capsule-render.vercel.app/api?text=JYP&type=waving&color=gradient&animation=fadeIn)
 <br>
 <p align="center">
 १✌˚◡˚✌५
- <h1 align="center"> My GitHub</h2>
-<p align="center">
+<h1 align="center">My GitHub</h2>
+<br>
 <h2 align="center">📚 Tech Stack 📚</h3>
-</p>
+<br>
 </p>
   <p align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
