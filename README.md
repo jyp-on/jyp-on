@@ -1,6 +1,6 @@
 <p align="center">
 
-![header](https://capsule-render.vercel.app/api?text=welcome~&type=waving&color=0:81F79F,100:a82da8&animation=fadeIn&fontSize=30&fontColor=BDBDBD)
+![header](https://capsule-render.vercel.app/api?text=welcome~&type=waving&color=0:81F79F,100:a82da8&animation=fadeIn&fontSize=30&fontColor=A9F5F2)
 <br>
 
 <h1 align="center">✌˚◡˚✌ My GitHub</h2>
