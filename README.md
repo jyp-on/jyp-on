@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
 <img src="https://img.shields.io/badge/Thymeleaf-6DB33F?style=for-the-badge&logo=thymeleaf&logoColor=FF9900">
+<img src="https://img.shields.io/badge/Jpa-6DB33F?style=for-the-badge&logo=jpa&logoColor=FF9900">
 <br>
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
