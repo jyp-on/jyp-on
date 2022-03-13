@@ -28,6 +28,8 @@
 <br>
 <p align="center">
   &nbsp
+  <a href="https://mythpoy.tistory.com/">💕My tistory💕</a>
+  &nbsp
   <a href="https://www.instagram.com/jyp.on/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
   &nbsp
   <a href="mailto:okmlnsunok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
