@@ -30,6 +30,7 @@
   &nbsp
   <a href="https://mythpoy.tistory.com/">💕My tistory💕</a>
   <br>
+  <br>
   &nbsp
   <a href="https://www.instagram.com/jyp.on/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
   &nbsp
