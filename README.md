@@ -1,38 +1,3 @@
-<style>
-    #pr {
-      text-align: center;
-    }
-
-    .work {
-      text-align: center;
-      align-items: center;
-
-    }
-
-    h1:hover {
-      color:darkslateblue;
-      font-size: 50px;
-      text-decoration: underline;
-    }
-
-    h2:hover {
-      color: darkslateblue;
-      font-size: 40px;
-      text-decoration: underline;
-    }
-
-    h3:hover {
-      color: darkslateblue;
-      font-size: 30px;
-      text-decoration: underline;
-    }
-
-    strong:hover {
-      color: darkslateblue;
-      font-size: 30px;
-      text-decoration: underline;
-    }
-  </style>
 <p align="center">
 
 ![header](https://capsule-render.vercel.app/api?text=welcome~&type=waving&color=50:A4A4A4,50:2ECCFA&animation=fadeIn&fontSize=35&fontColor=000000)
