@@ -1,3 +1,38 @@
+<!-- <style>
+    #pr {
+      text-align: center;
+    }
+
+    .work {
+      text-align: center;
+      align-items: center;
+
+    }
+
+    h1:hover {
+      color:darkslateblue;
+      font-size: 50px;
+      text-decoration: underline;
+    }
+
+    h2:hover {
+      color: darkslateblue;
+      font-size: 40px;
+      text-decoration: underline;
+    }
+
+    h3:hover {
+      color: darkslateblue;
+      font-size: 30px;
+      text-decoration: underline;
+    }
+
+    strong:hover {
+      color: darkslateblue;
+      font-size: 30px;
+      text-decoration: underline;
+    }
+  </style> -->
 <p align="center">
 
 ![header](https://capsule-render.vercel.app/api?text=welcome~&type=waving&color=50:A4A4A4,50:2ECCFA&animation=fadeIn&fontSize=35&fontColor=000000)
@@ -24,7 +59,8 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 </p>
 <br>
-<div id="pr">
+<div id="pr" align="center">
+<br>
 <h2 >🌈 Follow Me 🌈</h3>
 
 <h3>이름 : 박주영</h3>
@@ -32,6 +68,7 @@
 <h3>출생지역 : 서울시 도봉구</h3>
 <h3>소속 : 한림대학교 소프트웨어융합대학 콘텐츠IT (부전공 : 빅데이터)</h3>
 </div>
+<br>
 <br>
 <p align="center">
   &nbsp
@@ -43,21 +80,25 @@
   &nbsp
   <a href="mailto:okmlnsunok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
+<br><br>
 
 <br>
 <h1 align="center" class="work">현재 하고있는 일</h1>
-<div class="work">
+<div align="center">
   <strong> -- 공용 API를 이용하여 전국 미세먼지 수치 알림 서비스</strong><br>
   <a>https://github.com/mythpoy/korea-air-quality-service</a>
-  <br><br>
+  <br><br><br>
 
 
   <strong> -- 학술동아리 웹개발팀 팀장 22-1 ~ </strong><br>
 </div>
-
+<br>
+<br>
+<br>
+<br>
 <h1 align="center" class="work">과거에 했던 일</h1>
 
-<div class="work">
+<div align="center">
   <strong> -- 학술동아리 씨애랑 동아리 홈페이지 제작 (21년 동계워크샵)</strong><br>
   <a>https://github.com/CaerangManagement/Club_Management</a>
 
@@ -68,7 +109,7 @@
 </div>
 
 
-
+<br><br><br>
  <h2 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <br>
 <div align="center">
