@@ -1,38 +1,3 @@
-<!-- <style>
-    #pr {
-      text-align: center;
-    }
-
-    .work {
-      text-align: center;
-      align-items: center;
-
-    }
-
-    h1:hover {
-      color:darkslateblue;
-      font-size: 50px;
-      text-decoration: underline;
-    }
-
-    h2:hover {
-      color: darkslateblue;
-      font-size: 40px;
-      text-decoration: underline;
-    }
-
-    h3:hover {
-      color: darkslateblue;
-      font-size: 30px;
-      text-decoration: underline;
-    }
-
-    strong:hover {
-      color: darkslateblue;
-      font-size: 30px;
-      text-decoration: underline;
-    }
-  </style> -->
 <p align="center">
 
 ![header](https://capsule-render.vercel.app/api?text=welcome~&type=waving&color=50:A4A4A4,50:2ECCFA&animation=fadeIn&fontSize=35&fontColor=000000)
@@ -67,6 +32,9 @@
 <h3>생년월일 : 2000.12.13</h3>
 <h3>출생지역 : 서울시 도봉구</h3>
 <h3>소속 : 한림대학교 소프트웨어융합대학 콘텐츠IT (부전공 : 빅데이터)</h3>
+<h3>취득 자격증(최근) : 컴퓨터 활용능력 1급, 정보처리기능사, 토익 720</h3>
+
+
 </div>
 <br>
 <br>
@@ -107,7 +75,24 @@
   <a>https://github.com/mythpoy/Jpa-Shop</a>
 
 </div>
+<br><br><br>
+<h1 align="center" class="work">앞으로 하고싶은 일</h1>
 
+<div align="center">
+
+<strong> -- 공용 API를 이용하여 웹 서비스 제작 및 배포</strong><br>
+
+  <br><br>
+  <strong> -- 공인 AWS 자격증 취득</strong><br>
+
+  <br><br>
+  <strong> -- 자바스크립트로 게임제작</strong><br>
+
+  <br><br>
+  <strong> -- VR/AR 게임 제작</strong><br>
+  
+
+</div>
 
 <br><br><br>
  <h2 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
