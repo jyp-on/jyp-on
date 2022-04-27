@@ -93,6 +93,9 @@
 
   <br><br>
   <strong> -- 공인 AWS 자격증 취득</strong><br>
+  
+  <br><br>
+  <strong> -- Python을 활용한 웹 크롤링 및 빅데이터 분석</strong><br>
 
   <br><br>
   <strong> -- 자바스크립트로 게임제작</strong><br>
@@ -100,6 +103,11 @@
   <br><br>
   <strong> -- VR/AR 게임 제작</strong><br>
   
+  <br><br>
+  <strong> -- 정보처리기사 취득</strong><br>
+  
+  <br><br>
+  <strong> -- 빅데이터 분석기사 취득</strong><br>
 
 </div>
 
