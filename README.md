@@ -67,7 +67,7 @@
 <h1 align="center" class="work">과거에 했던 일</h1>
 
 <div align="center">
-  <strong> -- 학술동아리 씨애랑 동아리 홈페이지 제작 (21년 동계워크샵)</strong><br>
+  <strong> -- 학술동아리 씨애랑 동아리 홈페이지 제작 (21년 동계워크샵) - 서버 관리비 절약차원에서 AWS EC2 서버 내렸습니다!</strong><br>
   <a>https://github.com/CaerangManagement/Club_Management</a>
 
   <br><br>
