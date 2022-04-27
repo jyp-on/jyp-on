@@ -53,7 +53,7 @@
 
 <div align="center">
   <h1>개인적으로 수강했던 강좌</h1><br>
-  <strong>infrean - 스프링부트 JPA활용-1(완료)</strong><br>
+  <strong>infrean - 스프링부트 JPA활용-1(완료)</strong><br><br>
   <strong>commento - 유니콘 스타트업 기술 면접관에게 배우는 찐 현업 백엔드 개발 실무(완료)</strong><br>
 </div>
 <br><br><br>
@@ -88,25 +88,18 @@
 <h1 align="center" class="work">앞으로 하고싶은 일</h1>
 
 <div align="center">
-
-<strong> -- 공용 API를 이용하여 웹 서비스 제작 및 배포</strong><br>
-
-  <br><br>
+  <strong> -- 공용 API를 이용하여 웹 서비스 제작 및 배포</strong><br>
+  <br>
   <strong> -- 공인 AWS 자격증 취득</strong><br>
-  
-  <br><br>
+  <br>
   <strong> -- Python을 활용한 웹 크롤링 및 빅데이터 분석</strong><br>
-
-  <br><br>
+  <br>
   <strong> -- 자바스크립트로 게임제작</strong><br>
-
-  <br><br>
+  <br>
   <strong> -- VR/AR 게임 제작</strong><br>
-  
-  <br><br>
+  <br>
   <strong> -- 정보처리기사 취득</strong><br>
-  
-  <br><br>
+  <br>
   <strong> -- 빅데이터 분석기사 취득</strong><br>
 
 </div>
