@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54">
   
   <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
 <img src="https://img.shields.io/badge/Thymeleaf-6DB33F?style=for-the-badge&logo=thymeleaf&logoColor=FF9900">
