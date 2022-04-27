@@ -51,11 +51,12 @@
 </p>
 <br><br>
 
-<p align="center">
+<div align="center">
   <h1>개인적으로 수강했던 강좌</h1><br>
   <strong>infrean - 스프링부트 JPA활용-1(완료)</strong><br>
   <strong>commento - 유니콘 스타트업 기술 면접관에게 배우는 찐 현업 백엔드 개발 실무(완료)</strong><br>
-</p>
+</div>
+<br><br><br>
 
 <br>
 <h1 align="center" class="work">현재 하고있는 일</h1>
