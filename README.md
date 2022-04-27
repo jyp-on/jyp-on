@@ -51,6 +51,10 @@
 </p>
 <br><br>
 
+<p align="center">
+  ## 개인적으로 수강했던 강좌
+</p>
+
 <br>
 <h1 align="center" class="work">현재 하고있는 일</h1>
 <div align="center">
