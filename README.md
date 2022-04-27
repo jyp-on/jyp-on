@@ -52,9 +52,9 @@
 <br><br>
 
 <p align="center">
-  <h1>개인적으로 수강했던 강좌</h1>
-  <strong>infrean - 스프링부트 JPA활용-1(완료)</strong>
-  <strong>commento - 유니콘 스타트업 기술 면접관에게 배우는 찐 현업 백엔드 개발 실무(완료)</strong>
+  <h1>개인적으로 수강했던 강좌</h1><br>
+  <strong>infrean - 스프링부트 JPA활용-1(완료)</strong><br>
+  <strong>commento - 유니콘 스타트업 기술 면접관에게 배우는 찐 현업 백엔드 개발 실무(완료)</strong><br>
 </p>
 
 <br>
