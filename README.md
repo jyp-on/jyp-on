@@ -63,7 +63,7 @@
 <h1 align="center" class="work">현재 하고있는 일</h1>
 <div align="center">
 <strong> -- 공용 API를 이용하여 전국 미세먼지 수치 알림 서비스</strong><br>
-<a>https://github.com/mythpoy/korea-air-quality-service</a>
+<a> https://github.com/mythpoy/korea-air-quality-service </a>
 <br><br><br>
 
 
@@ -77,8 +77,8 @@
 
 <div align="center">
 <strong> -- 학술동아리 씨애랑 동아리 홈페이지 제작 (21년 동계워크샵)</strong><br>
-<div> -- 서버 관리비 절약차원에서 AWS EC2 서버 내렸습니다!</div><br>
-<a>https://github.com/CaerangManagement/Club_Management</a>
+<div> <서버 관리비 절약차원에서 AWS EC2 서버 내렸습니다></div><br>
+<a> https://github.com/CaerangManagement/Club_Management </a>
 
 <br><br>
 <strong> -- JPA를 활용한 쇼핑몰</strong><br>
