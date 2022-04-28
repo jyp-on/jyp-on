@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  <p align="center">
+<p align="center">
 
     ![header](https://capsule-render.vercel.app/api?text=welcome~&type=waving&color=50:A4A4A4,50:2ECCFA&animation=fadeIn&fontSize=35&fontColor=000000)
     <br>
@@ -124,11 +115,3 @@
     <p align="center">
       <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmythpoy&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
     </p> 
-    
-      
-    
-    
-    
-    
-</body>
-</html>
