@@ -74,7 +74,7 @@
 
 - 교내 학술동아리 씨애랑 동아리 홈페이지 제작 <a>https://github.com/CaerangManagement/Club_Management</a>
 - JPA를 활용한 쇼핑몰 <a>https://github.com/mythpoy/Jpa-Shop</a>
-
+- 2-1학기 21학점 5전공 4.5달성!
 
 <br><br><br>
 
