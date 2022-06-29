@@ -14,7 +14,7 @@
 <a href="mailto:okmlnsunok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 - <a href="https://mythpoy.tistory.com/">💕My tistory💕</a>
 
-<br><br><br>
+<br><br>
 
 # 📚 사용 언어 📚
 
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-<br><br><br>
+<br><br>
 
 # 📚 사용 라이브러리 및 프레임워크 📚
 
@@ -34,8 +34,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 
-<br><br><br>
-
+<br><br>
 
 # 📚 취득한 자격증. 📚
 - 컴퓨터 활용능력 1급
@@ -44,7 +43,7 @@
 - MOS Word 2016 Expert
 - 토익 720
 
-<br><br><br>
+<br><br>
 
 # 📚 취득할 자격증. 📚
 - 공인 AWS 자격증 
@@ -52,22 +51,20 @@
 - 빅데이터분석기사
 
 
-<br><br><br>
+<br><br>
 
 # 개인적으로 수강했던 강좌
 
 - infrean - 스프링부트 JPA활용
 - commento - 유니콘 스타트업 기술 면접관에게 배우는 찐 현업 백엔드 개발 실무
 
-<br><br><br>
-
-
+<br><br>
 
 # 현재 진행중인 활동
 - 공용 API를 이용하여 전국 미세먼지 수치 알림 서비스 <a> https://github.com/mythpoy/korea-air-quality-service </a>
   
 - 2022년도 교내 학술동아리 태그(웹 개발) 팀장 
-<br><br><br>
+<br><br>
 
 
 # 주요 활동
@@ -75,8 +72,7 @@
 - 교내 학술동아리 씨애랑 동아리 홈페이지 제작 <a>https://github.com/CaerangManagement/Club_Management</a>
 - JPA를 활용한 쇼핑몰 <a>https://github.com/mythpoy/Jpa-Shop</a>
 - 2-1학기 21학점 5전공 4.5달성!
-
-<br><br><br>
+<br><br>
 
 # 하고싶은 활동
 
@@ -84,7 +80,7 @@
 - Python을 활용한 웹 크롤링 및 빅데이터 분석
 - 자바스크립트로 게임제작
 - VR/AR 게임 제작
-<br><br><br>
+<br><br>
 
 
 
