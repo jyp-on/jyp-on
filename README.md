@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=welcome~&type=waving&color=50:A4A4A4,50:2ECCFA&animation=fadeIn&fontSize=35&fontColor=000000)
 
-<br>
+<br><br>
 # 📚 인적사항 📚
 - 소속 : 한림대학교 소프트웨어융합대학 콘텐츠IT (부전공 : 빅데이터)
 - 이름 : 박주영
