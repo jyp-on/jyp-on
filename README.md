@@ -16,7 +16,7 @@
 # 📚 백준 티어 📚
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/okmlnsunok)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okmlnsunok)](https://solved.ac/okmlnsunok)
 
 # 📚 사용 언어 📚
 
