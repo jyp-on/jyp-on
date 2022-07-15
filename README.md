@@ -12,8 +12,10 @@
 <a href="mailto:okmlnsunok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 - <a href="https://mythpoy.tistory.com/">💕My tistory💕</a>
 
+
+# 📚 백준 티어 📚
 <br>
-# 📚  📚
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/okmlnsunok)
 
 # 📚 사용 언어 📚
