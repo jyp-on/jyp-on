@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=welcome~&type=waving&color=50:A4A4A4,50:2ECCFA&animation=fadeIn&fontSize=35&fontColor=000000)
 
-<br><br>
-# 📚 인적사항 📚
+## 📚 인적사항 📚
 - 소속 : 한림대학교 소프트웨어융합대학 콘텐츠IT (부전공 : 빅데이터)
 - 이름 : 박주영
 - 생년월일 : 2000.12.13
@@ -13,11 +12,11 @@
 - <a href="https://mythpoy.tistory.com/">💕My tistory💕</a>
 
 
-# 📚 백준 티어 📚
+## 📚 백준 티어 📚
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okmlnsunok)](https://solved.ac/okmlnsunok)
 
-# 📚 사용 언어 📚
+## 📚 사용 언어 📚
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54">
@@ -25,7 +24,7 @@
 
 <br>
 
-# 📚 사용 라이브러리 및 프레임워크 📚
+## 📚 사용 라이브러리 및 프레임워크 📚
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
@@ -37,7 +36,7 @@
 
 <br>
 
-# 📚 취득한 자격증. 📚
+## 📚 취득한 자격증. 📚
 - 컴퓨터 활용능력 1급
 - 정보처리 기능사
 - MOS Excel 2016 Expert
@@ -46,35 +45,35 @@
 
 <br>
 
-# 📚 취득할 자격증. 📚
+## 📚 취득할 자격증. 📚
 - 공인 AWS 자격증 
 - 정보처리기사
 - 빅데이터분석기사
 
 <br>
 
-# 개인적으로 수강했던 강좌
+## 개인적으로 수강했던 강좌
 
 - infrean - 스프링부트 JPA활용
 - commento - 유니콘 스타트업 기술 면접관에게 배우는 찐 현업 백엔드 개발 실무
 
 <br>
 
-# 현재 진행중인 활동
+## 현재 진행중인 활동
 - 공용 API를 이용하여 전국 미세먼지 수치 알림 서비스 <a> https://github.com/mythpoy/korea-air-quality-service </a>
   
 - 2022년도 교내 학술동아리 태그(웹 개발) 팀장 
 <br>
 
 
-# 주요 활동
+## 주요 활동
 
 - 교내 학술동아리 씨애랑 동아리 홈페이지 제작 <a>https://github.com/CaerangManagement/Club_Management</a>
 - JPA를 활용한 쇼핑몰 <a>https://github.com/mythpoy/Jpa-Shop</a>
 - 2-1학기 21학점 5전공 4.5달성!
 <br>
 
-# 하고싶은 활동
+## 하고싶은 활동
 
 - 공공 API를 이용하여 웹 서비스 제작 및 배포
 - Python을 활용한 웹 크롤링 및 빅데이터 분석
@@ -82,7 +81,7 @@
 - VR/AR 게임 제작
 <br>
 
-# 👩‍💻 My Github Stats 👩‍💻
+## 👩‍💻 My Github Stats 👩‍💻
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mythpoy&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
