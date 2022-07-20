@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=welcome~&type=waving&color=50:A4A4A4,:2ECCFA&height=300&animation=fadeIn&fontSize=35&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90)
 
 ## 📚 인적사항 📚
 - 소속 : 한림대학교 소프트웨어융합대학 콘텐츠IT (부전공 : 빅데이터)
