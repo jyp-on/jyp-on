@@ -5,7 +5,7 @@
 - 이름 : 박주영
 - 생년월일 : 2000.12.13
 - 출생지역 : 서울시 도봉구
-- 병역여부 : 50사단 122여단 해안경계작전 대대
+- 병역여부 : 필 (20.2 ~ 21.8)
 <a href="https://www.instagram.com/jyp.on/"><br><br>
 - <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
 <a href="mailto:okmlnsunok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
