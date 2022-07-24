@@ -45,13 +45,6 @@
 
 <br>
 
-## 📚 취득할 자격증. 📚
-- 공인 AWS 자격증 
-- 정보처리기사
-- 빅데이터분석기사
-
-<br>
-
 ## 개인적으로 수강했던 강좌
 
 - infrean - 스프링부트 JPA활용
@@ -60,9 +53,8 @@
 <br>
 
 ## 현재 진행중인 활동
-- 공용 API를 이용하여 전국 미세먼지 수치 알림 서비스 <a> https://github.com/mythpoy/korea-air-quality-service </a>
-  
-- 2022년도 교내 학술동아리 태그(웹 개발) 팀장 
+- 학술동아리 SW전시회 웹사이트 개발
+- 2022년도 교내 학술동아리 (웹 개발)팀장 
 <br>
 
 
@@ -71,14 +63,6 @@
 - 교내 학술동아리 씨애랑 동아리 홈페이지 제작 <a>https://github.com/CaerangManagement/Club_Management</a>
 - JPA를 활용한 쇼핑몰 <a>https://github.com/mythpoy/Jpa-Shop</a>
 - 2-1학기 21학점 5전공 4.5달성!
-<br>
-
-## 하고싶은 활동
-
-- 공공 API를 이용하여 웹 서비스 제작 및 배포
-- Python을 활용한 웹 크롤링 및 빅데이터 분석
-- 자바스크립트로 게임제작
-- VR/AR 게임 제작
 <br>
 
 ## 👩‍💻 My Github Stats 👩‍💻
