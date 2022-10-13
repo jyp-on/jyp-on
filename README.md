@@ -73,22 +73,36 @@
 - 직전학기 성적
 <table>
   <tr>
-    <th>파이썬과학프로그래밍기초</th>
-    <th>C프로그래밍</th>
-    <th>웹프로그래밍</th>
-    <th>자료구조</th>
-    <th>소프트웨어개론</th>
-    <th>데이터분석과활용</th>
-    <th>디지털리터러시2</th>
+    <th>과목명</th>
+    <th>성적</th>
   </tr>
   <tr>
-    <td>A+</td>
-    <td>A+</td>
-    <td>A+</td>
-    <td>A+</td>
-    <td>A+</td>
-    <td>A+</td>
-    <td>A+</td>
+    <th>C프로그래밍</th>
+    <th>A+</th>
+  </tr>
+  <tr>
+    <th>웹프로그래밍</th>
+    <th>A+</th>
+  </tr>
+  <tr>
+    <th>자료구조</th>
+    <th>A+</th>
+  </tr>
+  <tr>
+    <th>소프트웨어개론</th>
+    <th>A+</th>
+  </tr>
+  <tr>
+    <th>데이터분석과활용</th>
+    <th>A+</th>
+  </tr>
+  <tr>
+    <th>디지털리터러시2</th>
+    <th>A+</th>
+  </tr>
+  <tr>
+    <th>파이썬과학프로그래밍기초</th>
+    <th>A+</th>
   </tr>
 </table>
 <br>
