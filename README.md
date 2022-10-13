@@ -46,11 +46,11 @@
 <br>
 
 ## 📚 Certificates obtained 📚
-- 컴퓨터 활용능력 1급
-- 정보처리 기능사
-- MOS Excel 2016 Expert
-- MOS Word 2016 Expert
-- 토익 720
+- 컴퓨터 활용능력 1급 <21년도>
+- 정보처리 기능사 <20년도>
+- MOS Excel 2016 Expert <22년도>
+- MOS Word 2016 Expert <22년도>
+- 토익 720 <19년도>
 
 <br>
 
