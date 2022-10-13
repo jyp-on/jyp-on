@@ -61,15 +61,15 @@
 <br>
 
 ## 현재 진행중인 활동
-- 학술동아리 SW전시회 웹사이트 개발
+- <a href="https://github.com/CaerangManagement/2022-SoftwareExhibition">학술동아리 SW전시회 웹사이트 개발</a>
 - 2022년도 교내 학술동아리 (웹 개발)팀장 
 <br>
 
 
 ## 주요 활동
 
-- 교내 학술동아리 씨애랑 동아리 홈페이지 제작 <a>https://github.com/CaerangManagement/Club_Management</a>
-- JPA를 활용한 쇼핑몰 <a>https://github.com/mythpoy/Jpa-Shop</a>
+-  <a href="https://github.com/CaerangManagement/Club_Management">교내 학술동아리 씨애랑 동아리 홈페이지 제작</a>
+-  <a href="https://github.com/mythpoy/Jpa-Shop">JPA를 활용한 쇼핑몰</a>
 - 직전학기 성적
 <table>
   <tr>
