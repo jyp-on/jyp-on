@@ -1,7 +1,7 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Ju%20Young.&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Ju%20Young.&descAlign=73.&descAlignY=44)
 
 
-## 📚 인적사항 📚
+## 📚 Personal Information 📚
 - 소속 : 한림대학교 소프트웨어융합대학 콘텐츠IT (부전공 : 빅데이터)
 - 이름 : 박주영
 - 생년월일 : 2000.12.13
@@ -13,11 +13,11 @@
 - <a href="https://mythpoy.tistory.com/">💕My tistory💕</a>
 
 
-## 📚 백준 티어 📚
+## 📚 baekjun tier 📚
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okmlnsunok)](https://solved.ac/okmlnsunok)
 
-## 📚 공부중인 언어 📚
+## 📚 language being studied 📚
 
 <div >
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
@@ -29,7 +29,7 @@
 </div>
 <br>
 
-## 📚 사용 라이브러리 및 프레임워크 📚
+## 📚 Libraries and frameworks used 📚
 
 <div>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
@@ -45,7 +45,7 @@
 
 <br>
 
-## 📚 취득한 자격증. 📚
+## 📚 Certificates obtained 📚
 - 컴퓨터 활용능력 1급
 - 정보처리 기능사
 - MOS Excel 2016 Expert
@@ -54,24 +54,24 @@
 
 <br>
 
-## 개인적으로 수강했던 강좌
+## Courses I took
 
 - infrean - 스프링부트 JPA활용
 - commento - 유니콘 스타트업 기술 면접관에게 배우는 찐 현업 백엔드 개발 실무
 
 <br>
 
-## 현재 진행중인 활동
+## Activities in progress
 - <a href="https://github.com/CaerangManagement/2022-SoftwareExhibition">학술동아리 SW전시회 웹사이트 개발</a>
 - 2022년도 교내 학술동아리 (웹 개발)팀장 
 <br>
 
 
-## 주요 활동
+## Major activities in the past
 
--  <a href="https://github.com/CaerangManagement/Club_Management">교내 학술동아리 씨애랑 동아리 홈페이지 제작</a>
--  <a href="https://github.com/mythpoy/Jpa-Shop">JPA를 활용한 쇼핑몰</a>
-- 직전학기 성적
+- <a href="https://github.com/CaerangManagement/Club_Management">교내 학술동아리 씨애랑 동아리 홈페이지 제작</a>
+- <a href="https://github.com/mythpoy/Jpa-Shop">JPA를 활용한 쇼핑몰</a>
+- previous semester grades
 <table>
   <tr>
     <th>과목명</th>
