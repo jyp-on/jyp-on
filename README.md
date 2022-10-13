@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=JYP&fontSize=90)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Ju%20Young.&descAlign=70.&descAlignY=44)
+
 
 ## 📚 인적사항 📚
 - 소속 : 한림대학교 소프트웨어융합대학 콘텐츠IT (부전공 : 빅데이터)
