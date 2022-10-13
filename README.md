@@ -108,8 +108,8 @@
 - <a href="https://github.com/mythpoy/Jpa-Shop">JPA를 활용한 쇼핑몰</a>
 - 22학년도 2학기 멘토링 활동
 - 2022 하계방학 웹 백엔드 개발 멘토링 진행 <br>
-![image](https://user-images.githubusercontent.com/52206904/195564807-fd5288d8-694b-4d3e-abd4-df1d3443ad10.png)
-
+<br>
+<img src="https://user-images.githubusercontent.com/52206904/195564807-fd5288d8-694b-4d3e-abd4-df1d3443ad10.png" width="500px", height ="300px">
 <br>
 
 ## 👩‍💻 My Github Stats 👩‍💻
