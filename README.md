@@ -71,7 +71,7 @@
 
 - <a href="https://github.com/CaerangManagement/Club_Management">교내 학술동아리 씨애랑 동아리 홈페이지 제작</a>
 - <a href="https://github.com/mythpoy/Jpa-Shop">JPA를 활용한 쇼핑몰</a>
-- previous semester grades
+- 직전학기 성적
 <table>
   <tr>
     <th>과목명</th>
