@@ -13,11 +13,11 @@
 - <a href="https://mythpoy.tistory.com/">💕My tistory💕</a>
 
 
-## 📚 baekjun tier 📚
+## 📚 Baekjun tier 📚
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okmlnsunok)](https://solved.ac/okmlnsunok)
 
-## 📚 language being studied 📚
+## 📚 Language being studied 📚
 
 <div >
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
@@ -67,7 +67,7 @@
 <br>
 
 
-## <Major> activities in the past
+## \<Major> Activities in the past
 - 직전학기 성적
 <table>
   <tr>
