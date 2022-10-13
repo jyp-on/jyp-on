@@ -54,20 +54,20 @@
 
 <br>
 
-## Courses I took
+## 📚 Courses I took 📚
 
 - infrean - 스프링부트 JPA활용
 - commento - 유니콘 스타트업 기술 면접관에게 배우는 찐 현업 백엔드 개발 실무
 
 <br>
 
-## Activities in progress
+## 📚 Activities in progress 📚
 - <a href="https://github.com/CaerangManagement/2022-SoftwareExhibition">학술동아리 SW전시회 웹사이트 개발</a>
 - 2022년도 교내 학술동아리 (웹 개발)팀장 
 <br>
 
 
-## \<Major> Activities in the past
+## 📚 Activities in the past 📚
 - 직전학기 성적
 <table>
   <tr>
