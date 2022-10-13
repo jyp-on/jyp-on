@@ -67,10 +67,7 @@
 <br>
 
 
-## Major activities in the past
-
-- <a href="https://github.com/CaerangManagement/Club_Management">교내 학술동아리 씨애랑 동아리 홈페이지 제작</a>
-- <a href="https://github.com/mythpoy/Jpa-Shop">JPA를 활용한 쇼핑몰</a>
+## <Major> activities in the past
 - 직전학기 성적
 <table>
   <tr>
@@ -106,6 +103,13 @@
     <th>A+</th>
   </tr>
 </table>
+
+- <a href="https://github.com/CaerangManagement/Club_Management">교내 학술동아리 씨애랑 동아리 홈페이지 제작</a>
+- <a href="https://github.com/mythpoy/Jpa-Shop">JPA를 활용한 쇼핑몰</a>
+- 22학년도 2학기 멘토링 활동
+- 2022 하계방학 웹 백엔드 개발 멘토링 진행 <br>
+![image](https://user-images.githubusercontent.com/52206904/195564807-fd5288d8-694b-4d3e-abd4-df1d3443ad10.png)
+
 <br>
 
 ## 👩‍💻 My Github Stats 👩‍💻
