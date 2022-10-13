@@ -16,13 +16,14 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okmlnsunok)](https://solved.ac/okmlnsunok)
 
-## 📚 사용 언어 📚
+## 📚 공부중인 언어 📚
 
 <div >
-
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  
 
 </div>
 <br>
@@ -38,6 +39,7 @@
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 </div>
 
 <br>
@@ -68,7 +70,27 @@
 
 - 교내 학술동아리 씨애랑 동아리 홈페이지 제작 <a>https://github.com/CaerangManagement/Club_Management</a>
 - JPA를 활용한 쇼핑몰 <a>https://github.com/mythpoy/Jpa-Shop</a>
-- 2-1학기 21학점 5전공 4.5달성!
+- 직전학기 성적
+<table>
+  <tr>
+    <th>파이썬과학프로그래밍기초</th>
+    <th>C프로그래밍</th>
+    <th>웹프로그래밍</th>
+    <th>자료구조</th>
+    <th>소프트웨어개론</th>
+    <th>데이터분석과활용</th>
+    <th>디지털리터러시2</th>
+  </tr>
+  <tr>
+    <td>A+</td>
+    <td>A+</td>
+    <td>A+</td>
+    <td>A+</td>
+    <td>A+</td>
+    <td>A+</td>
+    <td>A+</td>
+  </tr>
+</table>
 <br>
 
 ## 👩‍💻 My Github Stats 👩‍💻
