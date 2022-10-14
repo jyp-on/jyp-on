@@ -1,7 +1,7 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Ju%20Young.&descAlign=73.&descAlignY=44&animation=fadeIn)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Ju%20Young😊&descAlign=73.&descAlignY=44&animation=fadeIn)
 
 
-## 📚 Personal Information 📚
+## 👨 Personal Information 👨
 - 소속 : 한림대학교 소프트웨어융합대학 콘텐츠IT (부전공 : 빅데이터)
 - 이름 : 박주영
 - 생년월일 : 2000.12.13
