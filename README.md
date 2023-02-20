@@ -8,7 +8,7 @@
  생년월일 : 2000.12.13 <br>
  출생지역 : 서울시 도봉구 <br>
  병역여부 : 필 (20. 02 ~ 21. 08) <br>
- 소속 : 콘텐츠IT 2학년(부전공 : 빅데이터) 
+ 소속 : 콘텐츠IT 3학년(부전공 : 빅데이터) 
  <br>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okmlnsunok)](https://solved.ac/okmlnsunok)
