@@ -10,12 +10,12 @@
  병역여부 : 필 (20. 02 ~ 21. 08) <br>
  소속 : 콘텐츠IT 3학년(부전공 : 빅데이터) 
  <br>
- 
+<!--  
  <h3>👨 currently studying tech 👨</h3>
 
 ![NestJs](https://img.shields.io/badge/NestJs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007aac?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScriot](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330) 
+![JavaScriot](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330)  -->
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okmlnsunok)](https://solved.ac/okmlnsunok)
  
