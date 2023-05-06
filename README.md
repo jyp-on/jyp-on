@@ -10,12 +10,12 @@
  병역여부 : 필 (20. 02 ~ 21. 08) <br>
  소속 : 콘텐츠IT 3학년(부전공 : 빅데이터) 
  <br>
-<!--  
+
  <h3>👨 currently studying tech 👨</h3>
 
 ![NestJs](https://img.shields.io/badge/NestJs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007aac?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScriot](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330)  -->
+![JavaScriot](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330) 
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okmlnsunok)](https://solved.ac/okmlnsunok)
  
@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jyp_1213/"/></a>
 <a href="mailto:okmlnsunok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=okmlnsunok@gmail.com"/></a>
 
-<!-- <hr>
+<hr>
 <h3>🙂 Baekjun tier 🙂</h3>
 
 
@@ -79,7 +79,7 @@
 <h3>⌚︎ Activities in the past ⌚︎</h3>
 
 
-<u> 직전학기 학점 4.5 달성 </u> 🏆 <br>
+<u> 전공평점 4.3 달성 </u> 🏆 <br>
 <a href="https://github.com/mythpoy/Jpa-Shop">JPA를 활용한 쇼핑몰</a> <br>
 <a href="https://github.com/CaerangManagement/Club_Management">교내 학술동아리 씨애랑 동아리 홈페이지 제작</a> <br>
 <a href="https://github.com/mythpoy/mongoose_board_exam">2022 하계방학 웹 백엔드 개발 멘토링 진행</a> <br>
@@ -99,7 +99,3 @@
 
 
 </div>
-
- -->
-
-
