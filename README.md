@@ -11,12 +11,12 @@
  소속 : 콘텐츠IT 3학년(부전공 : 빅데이터) 
  <br>
 
- <h3>👨 currently studying tech 👨</h3>
-
-![NestJs](https://img.shields.io/badge/NestJs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white) 
+<!-- ![NestJs](https://img.shields.io/badge/NestJs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007aac?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScriot](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330) 
+![JavaScriot](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330)  -->
 
+ <h3>🙂 Baekjun tier 🙂</h3>
+ 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okmlnsunok)](https://solved.ac/okmlnsunok)
  
 <hr>
@@ -31,16 +31,12 @@
 <a href="mailto:okmlnsunok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=okmlnsunok@gmail.com"/></a>
 
 <hr>
-<h3>🙂 Baekjun tier 🙂</h3>
 
-
-
-<hr>
 <h3> ⚒ Language being studied ⚒</h3>
 
 
 <div >
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> -->
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
