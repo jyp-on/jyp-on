@@ -53,7 +53,7 @@
 
 <br>
 <table>
-  <th colspan="2"><u>멘토링활동 사진</u></th>
+  <th colspan="2"><u>2022 하계방학 웹 백엔드 개발 멘토링활동 사진</u></th>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/52206904/195564807-fd5288d8-694b-4d3e-abd4-df1d3443ad10.png" width="300px", height ="200px"></td>
     <td><img src="https://user-images.githubusercontent.com/52206904/195583151-224657aa-9bb9-4838-96ab-6b597e6f812a.png" width="300px", height ="200px"></td>
