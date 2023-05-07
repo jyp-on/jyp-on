@@ -67,8 +67,7 @@
 <h3>🏸 Activities in progress 🏸</h3>
 
 
-<a href="https://github.com/CaerangManagement/2022-SoftwareExhibition">학술동아리 SW전시회 웹사이트 개발</a> <br>
-2022년도 교내 학술동아리 (웹 개발)팀장 <br>
+
 <br>
 
 <hr>
@@ -76,9 +75,12 @@
 
 
 <u> 전공평점 4.3 달성 </u> 🏆 <br>
+2022년도 교내 학술동아리 (웹 개발)팀장 <br>
 <a href="https://github.com/mythpoy/Jpa-Shop">JPA를 활용한 쇼핑몰</a> <br>
-<a href="https://github.com/CaerangManagement/Club_Management">교내 학술동아리 씨애랑 동아리 홈페이지 제작</a> <br>
+<a href="https://github.com/CaerangManagement/2022-SoftwareExhibition">학술동아리 SW전시회 웹사이트 개발</a> <br>
 <a href="https://github.com/mythpoy/mongoose_board_exam">2022 하계방학 웹 백엔드 개발 멘토링 진행</a> <br>
+<a href="https://github.com/CaerangManagement/Club_Management">교내 학술동아리 씨애랑 동아리 홈페이지 제작</a> <br>
+
 <br>
 <table>
   <th colspan="2"><u>멘토링활동 사진</u></th>
@@ -87,11 +89,5 @@
     <td><img src="https://user-images.githubusercontent.com/52206904/195583151-224657aa-9bb9-4838-96ab-6b597e6f812a.png" width="300px", height ="200px"></td>
   </tr>
 </table>
-
-<h3>👩‍💻 My Github Stats 👩‍💻</h3>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mythpoy)](https://github.com/mythpoy/github-readme-stats)
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
-
 
 </div>
