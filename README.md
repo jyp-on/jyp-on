@@ -37,7 +37,9 @@
 <br>
 <hr>
 <h3>🏸 Activities in progress 🏸</h3>
+ SW봉사단 동아리 회장 <br>
  <a href="https://github.com/Hallym-LIKELION/HallymFestival2023-Backend-">한림대학교 2023 대동제(비봉축전) 웹사이트 개발</a>
+ 
 
 
 <hr>
