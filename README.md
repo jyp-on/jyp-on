@@ -20,33 +20,7 @@
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okmlnsunok)](https://solved.ac/okmlnsunok)
  
 <hr>
-
-
-<h3>📱 How to reach me 📱</h3>
-
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://mythpoy.tistory.com/)](https://mythpoy.tistory.com/)
-<a href="https://www.instagram.com/jyp.on/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jyp_1213/"/></a>
-<a href="mailto:okmlnsunok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=okmlnsunok@gmail.com"/></a>
-
-<hr>
-
-<h3> ⚒ Language being studied ⚒</h3>
-
-
-<div >
-<!-- <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> -->
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  
-
-</div>
-<br>
-<hr>
 <h3>📖 Libraries and frameworks used 📖<h3>
-
 
 <div>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
@@ -61,14 +35,10 @@
 </div>
 
 <br>
-
-<br>
 <hr>
 <h3>🏸 Activities in progress 🏸</h3>
+ <a href="https://github.com/Hallym-LIKELION/HallymFestival2023-Backend-">한림대학교 2023 대동제(비봉축전) 웹사이트 개발</a>
 
-
-
-<br>
 
 <hr>
 <h3>⌚︎ Activities in the past ⌚︎</h3>
@@ -90,4 +60,13 @@
   </tr>
 </table>
 
+ <hr>
+
+<h3>📱 How to reach me 📱</h3>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://mythpoy.tistory.com/)](https://mythpoy.tistory.com/)
+<a href="https://www.instagram.com/jyp.on/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jyp_1213/"/></a>
+<a href="mailto:okmlnsunok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=okmlnsunok@gmail.com"/></a>
+ 
 </div>
