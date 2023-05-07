@@ -15,7 +15,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007aac?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScriot](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330)  -->
 
- <h3>🙂 Baekjun tier 🙂</h3>
+ <h3>🙂 Baekjun tier (with python) 🙂</h3>
  
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okmlnsunok)](https://solved.ac/okmlnsunok)
  
