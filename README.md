@@ -48,8 +48,9 @@
 
 
  🏆전공평점  <b>4.3</b> 달성 🏆 <br>
+ 🏆2022 씨애랑 태그팀 <b>팀장</b> 🏆 <br>
  🏆2022 교내 웹개발 해커톤 <b>금상</b>🏆 <br>
-🏆2022 교내 학술동아리 (웹 개발) 팀장 🏆 <br>
+
 
 <a href="https://github.com/mythpoy/Jpa-Shop">JPA를 활용한 쇼핑몰</a> <br>
 <a href="https://github.com/CaerangManagement/2022-SoftwareExhibition">학술동아리 SW전시회 웹사이트 개발</a> <br>
