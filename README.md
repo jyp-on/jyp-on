@@ -37,17 +37,20 @@
 <br>
 <hr>
 <h3>🏸 Activities in progress 🏸</h3>
- SW봉사단 동아리 회장 <br>
+ <b>씨애랑</b> 27기 <br>
+ <b>SW 봉사단</b> 회장 <br>
+ <b>멋쟁이사자처럼</b> 11기 <br>
+ 
  <a href="https://github.com/Hallym-LIKELION/HallymFestival2023-Backend-">한림대학교 2023 대동제(비봉축전) 웹사이트 개발</a>
  
-
-
 <hr>
 <h3>⌚︎ Activities in the past ⌚︎</h3>
 
 
-<u> 전공평점 4.3 달성 </u> 🏆 <br>
-2022년도 교내 학술동아리 (웹 개발)팀장 <br>
+ 🏆전공평점  <b>4.3</b> 달성 🏆 <br>
+ 🏆2022 교내 웹개발 해커톤 <b>금상</b>🏆 <br>
+🏆2022 교내 학술동아리 (웹 개발) 팀장 🏆 <br>
+
 <a href="https://github.com/mythpoy/Jpa-Shop">JPA를 활용한 쇼핑몰</a> <br>
 <a href="https://github.com/CaerangManagement/2022-SoftwareExhibition">학술동아리 SW전시회 웹사이트 개발</a> <br>
 <a href="https://github.com/mythpoy/mongoose_board_exam">2022 하계방학 웹 백엔드 개발 멘토링 진행</a> <br>
