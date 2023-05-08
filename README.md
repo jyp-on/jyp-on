@@ -20,7 +20,7 @@
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okmlnsunok)](https://solved.ac/okmlnsunok)
  
 <hr>
-<h3>📖 Libraries and frameworks used 📖<h3>
+<h3>📖 Most used frameworks and libraries 📖<h3>
 
 <div>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
@@ -31,7 +31,8 @@
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+ <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Ncloud AWS&logoColor=white">
+ 
 </div>
 
 <br>
