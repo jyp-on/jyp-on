@@ -74,7 +74,6 @@
  <hr>
 
 <h3>📱 How to reach me 📱</h3>
- <b>깃허브 팔로우 환영합니다!</b> <<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmythpoy">Follow</a>> <br/><br/>
  
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://mythpoy.tistory.com/)](https://mythpoy.tistory.com/)
 <a href="https://www.instagram.com/jyp.on/">
