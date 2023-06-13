@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Ju%20Young😊&descAlign=73.&descAlignY=44&animation=fadeIn)
+<!-- ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Ju%20Young😊&descAlign=73.&descAlignY=44&animation=fadeIn)
 
 <div align="center">
 
@@ -82,3 +82,4 @@
  <a href="mailto:okmlnsunok@naver.com"><img src="https://img.shields.io/badge/Naver-339933?style=flat-square&logo=Naver&logoColor=white&link=okmlnsunok@gmail.com"/></a>
  
 </div>
+ -->
