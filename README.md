@@ -40,7 +40,7 @@
 </div>
 
 <br>
-<hr>
+<!-- <hr>
 <h3>🏸 Activities in progress 🏸</h3>
  <b>씨애랑</b> 27기 <br>
  <b>SW 봉사단</b> 회장 <br>
@@ -80,6 +80,6 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jyp_1213/"/></a>
 <a href="mailto:okmlnsunok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=okmlnsunok@gmail.com"/></a>
  <a href="mailto:okmlnsunok@naver.com"><img src="https://img.shields.io/badge/Naver-339933?style=flat-square&logo=Naver&logoColor=white&link=okmlnsunok@gmail.com"/></a>
- 
+  -->
 </div>
  
