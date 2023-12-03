@@ -1,8 +1,8 @@
+[포트폴리오](https://royal-chestnut-ecb.notion.site/81c1422464724507a0b08d0f206303f7)
+
 <!-- 
 
- ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Ju%20Young😊&descAlign=73.&descAlignY=44&animation=fadeIn)
-
-!-->
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Ju%20Young😊&descAlign=73.&descAlignY=44&animation=fadeIn)
 
 <div align="center">
 
@@ -13,9 +13,10 @@
  출생지역 : 서울시 도봉구 <br>
  병역여부 : 필 (20. 02 ~ 21. 08) <br>
  소속 : 콘텐츠IT 3학년(부전공 : 빅데이터) 
- <br>
+ <br> 
 
-<!-- ![NestJs](https://img.shields.io/badge/NestJs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white) 
+
+![NestJs](https://img.shields.io/badge/NestJs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007aac?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScriot](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330)  
 
@@ -23,7 +24,7 @@
  
  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okmlnsunok)](https://solved.ac/okmlnsunok)
 
- -->
+
 <h3>📖 Most used frameworks and libraries 📖<h3>
 
 <div>
@@ -36,15 +37,10 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/ncloud-2DB400?style=for-the-badge&logo=Naver&logoColor=white">
-
-
-
-
- 
 </div>
 
 <br>
-<!-- <hr>
+<hr>
 <h3>🏸 Activities in progress 🏸</h3>
  <b>씨애랑</b> 27기 <br>
  <b>SW 봉사단</b> 회장 <br>
@@ -84,6 +80,5 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jyp_1213/"/></a>
 <a href="mailto:okmlnsunok@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=okmlnsunok@gmail.com"/></a>
  <a href="mailto:okmlnsunok@naver.com"><img src="https://img.shields.io/badge/Naver-339933?style=flat-square&logo=Naver&logoColor=white&link=okmlnsunok@gmail.com"/></a>
-  -->
-</div>
- 
+  
+ -->
