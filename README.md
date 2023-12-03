@@ -1,4 +1,4 @@
-[포트폴리오](https://royal-chestnut-ecb.notion.site/81c1422464724507a0b08d0f206303f7)
+💁‍♂️ [포트폴리오](https://royal-chestnut-ecb.notion.site/81c1422464724507a0b08d0f206303f7)
 
 <!-- 
 
